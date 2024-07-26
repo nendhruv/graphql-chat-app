@@ -6,8 +6,8 @@ This is a simple real-time chat application that allows communication between tw
 
 1. Clone the repository
 2. Install dependencies:
-    ```cd server && npm install
-        cd ../client && npm install```
+    `cd server && npm install`
+        `cd ../client && npm install`
 3. Start the server:
 `cd server && node server.js`
 4. Start the client:
